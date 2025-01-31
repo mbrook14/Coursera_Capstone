@@ -9,3 +9,5 @@ Introduction For the capstone, i will be finding the best location to open a bur
 
 Target Audience Our services isn't limited to our individual client seeking services. Anyone looking to open a burger joint or even other food venues can take advantage of the data given.
 4.Data List of neighborhoods latitude and longtitude of these neighbor hoods Venue data related to burger joints, this will help us find the perfect fit for our current and future clients. 5. Extracting Data Pulling information on Toronto neighborhoods using wikipedia Using geocoder to provide the latitude and longitude information of these neighborhoods. Utilizing Foursquare api for data information.
+
+Mel L Brooks
