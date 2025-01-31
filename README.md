@@ -1,7 +1,7 @@
 # IBM datascience projects and assignments
 This repository consist of assignments for i've completed for IBM's capstone projects
 
-##Using Machine Learning to locate the best places to open a burger joint.
+## Using Machine Learning to locate the best places to open a burger joint.
 https://github.com/mbrook14/Coursera_Capstone
 
 Introduction For the capstone, i will be finding the best location to open a burger joint in Toronto Canada by using machine learning clusters. The purpose of the clustering is to find arers that have a high percentage of burger joint and compare then to areas that have very few burger joints if any. Our client is looking for an area with little to no competition so that she may open a thriving burger joint business.
